@@ -12,7 +12,7 @@ _______
   Ao automatizar o provisionamento da infra-estrutura com a IaC, os desenvolvedores não precisam provisionar e gerenciar manualmente **servidores, sistemas
   operacionais, armazenamento** e outros componentes de infra-estrutura sempre que criam ou implantam uma aplicação.
 
-* ## Definições do projeto, curso Linux (web.dio.me):
+* ## Definições do projeto, curso Linux (<https://web.dio.me>):
   - Todo provisionamento deve ser feito em um arquivo do tipo Bash Script;
   - O dono de todos os diretórios criados será o usuário root;
   - Todos os usuários terão permissão total dentro do diretório publico;
